@@ -3,3 +3,7 @@ import pyspark
 
 # COMMAND ----------
 
+import pandas
+
+# COMMAND ----------
+
