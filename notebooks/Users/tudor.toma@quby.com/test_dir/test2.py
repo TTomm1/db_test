@@ -12,3 +12,8 @@ import sklearn as sl
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC This is a markdown
+
+# COMMAND ----------
+
