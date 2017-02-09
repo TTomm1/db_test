@@ -17,3 +17,16 @@ import sklearn as sl
 
 # COMMAND ----------
 
+# MAGIC %sh
+# MAGIC ssh
+
+# COMMAND ----------
+
+# MAGIC %run /Users/tudor.toma@quby.com/test_dir/tt2
+
+# COMMAND ----------
+
+message("bla bla")
+
+# COMMAND ----------
+
