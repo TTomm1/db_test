@@ -3,6 +3,8 @@ import sklearn as sl
 
 # COMMAND ----------
 
+
+
 #i edit outside db notebook
 #i edit in vim
 
@@ -11,4 +13,5 @@ import sklearn as sl
 1+1
 
 # COMMAND ----------
+
 
